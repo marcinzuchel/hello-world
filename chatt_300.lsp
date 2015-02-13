@@ -1,0 +1,5 @@
+(defun ch()(setf res '((SLUCHAM!)(Kto Ja?)(ok)(interere!)(TELL Me)))
+(loop (format t ">")(setf in (read))(cond ((not (listp in))
+(format t "W (),PLZ ~%"))((equal in '(nara)) (format t "~%nara!")(return))
+(t (setf po (elt res))(format t "~%~s~%" po)))))
+(defun elt(L) (nth (random (length L)) L))
