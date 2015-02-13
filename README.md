@@ -1,5 +1,6 @@
 # hello-world
 description of future repositories ;)
 
-primes <-> liczby pierwsze 
+1. primes <-> liczby pierwsze 
+2.  
 ;)
