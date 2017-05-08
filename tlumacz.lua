@@ -2,6 +2,7 @@
 i = 1;
 e = {};
 f = " ";
+-- changes hex to char
 repeat
     a = io.read(1)
     b = io.read(1)
